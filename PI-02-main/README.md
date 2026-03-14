@@ -5,15 +5,8 @@ Projeto de site de e-commerce desenvolvido em PHP para uma loja de grife.
 ## Tecnologias
 
 - PHP
-- MySQL
+- SQLITE
 - HTML, CSS, JavaScript
-
-## Estrutura
-
-- `/public`: Arquivos acessíveis ao usuário
-- `/src`: Código-fonte principal
-- `/database`: Scripts do banco
-- `/tests`: Testes automatizados
 
 ## Como rodar
 
